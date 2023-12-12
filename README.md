@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Fevzi TASKIN, <br><br>I am a Full Stack Software Engineer.<br><br>I am currently improving myself to extend my abilities in IT domain.<br><br>My LinkedIn profile : https://www.linkedin.com/in/fevzi-taskin/
+Hello, I am Fevzi TASKIN, <br><br>I am a Full Stack Software Engineer.<br><br>I am currently learning Angular JS  to extend my abilities in IT domain.<br><br>My LinkedIn profile : https://www.linkedin.com/in/fevzi-taskin/
 
 
 # 💻 Tech Stack:
