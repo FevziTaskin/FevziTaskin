@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Fevzi TASKIN,<br><br>I am a Full Stack Software Engineer.<br><br>I am currently studying on IBM Full Stack Software Developer course on Coursera <br>to extend my abilities in IT domain.<br><br>My LinkedIn profile : https://www.linkedin.com/in/fevzi-taskin/<br><br>
+Hello, I am Fevzi TASKIN,<br><br>I am a Full Stack Software Engineer.<br><br>I am currently studying IBM Full Stack Software Developer course on Coursera <br>to extend my abilities in IT domain.<br><br>My LinkedIn profile : https://www.linkedin.com/in/fevzi-taskin/<br><br>
 
 
 # 💻 Tech Stack:
